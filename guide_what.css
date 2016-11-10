@@ -1,0 +1,10 @@
+BODY {background-color: #CCCCFF}
+	H1 {font-family:Old Standard;text-decoration: underline}
+	H3 {font-family: Old Standard; font-size:16pt}
+	P {font-family:Arial;font-size:14pt}
+	table {font-family:Arial;font-size:12pt; background-color: #996699}
+	p {text-indent:30pt}
+	figcaption {font-family:Arial;font-size:10pt;text-align:center}
+	IMG.displayed {display:block;margin-left:auto; margin-right:auto }
+	dd {text-align: center; font-weight: bold}
+	dl#captioned-image{border: 3px solid black; background-color: #996699}
